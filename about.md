@@ -4,5 +4,7 @@ title: About
 ---
 
 #It's me
->changzhiwin@gmail.com
-Thanks for reading
+
+![My wechat]({{ site.url }}/public/wechat.JPG)
+
+`changzhiwin@gmail.com`
