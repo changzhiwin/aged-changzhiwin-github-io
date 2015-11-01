@@ -5,6 +5,6 @@ title: About
 
 #It's me
 
-![My wechat]({{ site.url }}/public/icon180.png)
+![My wechat]({{ site.url }}/public/wechat180.png)
 
 `changzhiwin@gmail.com`

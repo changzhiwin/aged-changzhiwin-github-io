@@ -52,5 +52,5 @@ title: Do not go gentle into that good night
  The poem is written as a Villanelle and the title itself uses adjective (gentle) as adverb (gently), making the latent meaning even more present.  
  
  Photo of Thomas as a young man. 
- ![Dylan Thomas]({{ site.url }}/public/dylan-thomas.jpg)
+ ![Dylan Thomas]({{ site.url }}/public/dylan-thomas310.png)
  
