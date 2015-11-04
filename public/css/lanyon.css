@@ -303,6 +303,11 @@ a.sidebar-nav-item:focus {
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
+.abstract {
+  max-height: 300px;
+  overflow: hidden;
+  background: linear-gradient(#FFFFFF 80%, #FFFFFF 10%, #D1D1D1);
+}
 
 .page,
 .post {
