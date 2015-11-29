@@ -9,13 +9,13 @@ permalink:        pretty
 title:            Finding
 tagline:          'for life'
 description:      'write something valuable'
-url:              http://changzhiwin.github.io
+#url:              http://changzhiwin.github.io
 
 author:
   name:           'changzhiwin'
   url:            http://changzhiwin.github.io
 
-baseurl:          http://changzhiwin.github.io/poole/
+#baseurl:          http://changzhiwin.github.io/poole/
 
 paginate:         5
 

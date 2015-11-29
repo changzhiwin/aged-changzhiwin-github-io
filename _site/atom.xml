@@ -4,13 +4,53 @@
  <title>Finding</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-11-04T23:43:12+08:00</updated>
+ <updated>2015-11-29T11:29:05+08:00</updated>
  <id></id>
  <author>
    <name>changzhiwin</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>A plan</title>
+   <link href="/2015/11/29/a-plan/"/>
+   <updated>2015-11-29T00:00:00+08:00</updated>
+   <id>/2015/11/29/a-plan</id>
+   <content type="html">&lt;h1&gt;Why&lt;/h1&gt;
+
+&lt;p&gt;I want to be a freelancer, it&amp;#39;s my dream currently;
+Then, I can go anywhere, work anywhere;
+Live in my hometown, live with my mom, live with freedom;
+I know it hard.&lt;/p&gt;
+
+&lt;h1&gt;Now&lt;/h1&gt;
+
+&lt;p&gt;My current job is programer that using javascript, I think using this program language is closer to my dream;
+And I learn English everyday, memorize word, read simple article, watch TED talk.
+But I still not ready for freelancer.&lt;/p&gt;
+
+&lt;p&gt;I have not any detail plan that can make my dream come to true.
+There are so many popular frameworks that using those days, like angular, react, ionic, 
+but I don&amp;#39;t know which one I should master.&lt;/p&gt;
+
+&lt;h1&gt;How&lt;/h1&gt;
+
+&lt;p&gt;Today, I choose angular2, learn typescript.
+I don&amp;#39;t know this choice is right or wrong, yes, it&amp;#39;s a bet&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>In big company</title>
+   <link href="/2015/11/13/in-big-company/"/>
+   <updated>2015-11-13T00:00:00+08:00</updated>
+   <id>/2015/11/13/in-big-company</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;在稍微大点的公司，不做事混着还是蛮舒服的。一旦想做事情，痛苦就开始了，各种推诿、冲突的想法、跨部门马拉松式的沟通……所以能在大公司成事儿的人必有所长，大多性格强势坚韧；败事儿的往往是和稀泥的职业经理人&amp;amp;阿谀奉承攀爬向上的小人；闷头做事的大多数升迁缓慢无所建树。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Do not go gentle into that good night</title>
